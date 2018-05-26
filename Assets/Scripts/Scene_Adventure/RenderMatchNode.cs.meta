@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 58eb85ee8d863ac448b73b31a3aa2976
+timeCreated: 1525757420
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GrayNode: {fileID: 21300000, guid: 53af32863a6e79545a791ef88a69f74d, type: 3}
+  - GreenNode: {fileID: 21300000, guid: d7124a18dc431484b83344215a95dbdd, type: 3}
+  - YellowNode: {fileID: 21300000, guid: b88f153d5285413409a1653811808182, type: 3}
+  - NodeSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

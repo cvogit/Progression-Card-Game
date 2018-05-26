@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 02a8c3f4b68eb3c45a244ccd30d8f1a0
+timeCreated: 1524383973
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - artwork: {instanceID: 0}
+  - blueMana: {fileID: 21300000, guid: 9d20925086070c246b4fb644c3f59b62, type: 3}
+  - redMana: {fileID: 21300000, guid: 07fbfd15f6441a44bb452b3367121103, type: 3}
+  - blueCircle: {fileID: 21300000, guid: 1db9024c55e05704ca39fbecf33865de, type: 3}
+  - grayCircle: {fileID: 21300000, guid: 76f865a73afca62429ffc5264dffb0de, type: 3}
+  - greenCircle: {fileID: 21300000, guid: f352403e874d19d409d1ccbbe129dbf1, type: 3}
+  - redCircle: {fileID: 21300000, guid: 29ac1f19eba9dc640a4bbc38185b3d68, type: 3}
+  - greenLemiCircle: {fileID: 21300000, guid: 278ecfa16d30a5a40817fb5d18043708, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

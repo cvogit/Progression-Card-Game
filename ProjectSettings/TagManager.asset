@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneController
+  - Card
+  - Enemy
+  - Play Panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 913628849
+    locked: 0
+  - name: 2
+    uniqueID: 2540033677
+    locked: 0
+  - name: 3
+    uniqueID: 3262538665
+    locked: 0
+  - name: 4
+    uniqueID: 1441331315
+    locked: 0
+  - name: 5
+    uniqueID: 3613370785
+    locked: 0
